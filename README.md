@@ -9,6 +9,10 @@
 
 - 🔭 I’m currently working on **Freelance Project**
 
+- 🌱 I’m currently learning **Golang**
+
+- 💬 Ask me about **Flutter and React**
+
 - 📫 How to reach me **hritikchaurasia81@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
